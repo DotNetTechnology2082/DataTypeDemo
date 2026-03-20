@@ -4,5 +4,5 @@
     {
         Console.WriteLine("This is first GIT testing");
     }
-    Console.WriteLine("This is second GIT testing");    
+    Console.WriteLine("This is second GIT testu");    
 }
