@@ -38,6 +38,6 @@ public class MyClass
 {
     public static void main()
     {
-        Console.WriteLine("my gitsd");
+        Console.WriteLine("my code");
     }
 }
